@@ -4,12 +4,6 @@
 
 A modern and responsive **Registration Form** built using **HTML, CSS, and JavaScript**. The project features a clean UI with a glassmorphism-inspired design, responsive layout, and client-side form validation for a better user experience.
 
-## 📸 Preview
-
-(Add a screenshot here)
-
----
-
 ## ✨ Features
 
 ✅ Modern UI Design  
@@ -29,4 +23,38 @@ A modern and responsive **Registration Form** built using **HTML, CSS, and JavaS
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🎯 Learning Outcomes
+
+During this project, I practiced:
+
+- HTML Form Elements
+- CSS Flexbox
+- Responsive Web Design
+- JavaScript DOM Manipulation
+- Form Validation
+- Clean UI Design Principles
+
+---
+
+## 🚀 Future Improvements
+
+- Password Visibility Toggle
+- Email Validation
+- Password Strength Indicator
+- Dark Mode
+- Backend Integration
+- Database Connectivity
+
+---
+
+
+## 👨‍💻 Author
+
+**TN Jatharththan**
+
+🔗 LinkedIn: *(www.linkedin.com/in/vrtnjathartan26)*
+
+
+⭐ If you like this project, don't forget to give it a Star!
